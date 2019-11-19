@@ -1,5 +1,5 @@
-import CookiePermissionPlugin from 'src/script/plugin/cookie-permission/cookie-permission.plugin';
-import CookieStorage from 'src/script/helper/storage/cookie-storage.helper';
+import CookiePermissionPlugin from 'src/plugin/cookie-permission/cookie-permission.plugin';
+import CookieStorage from 'src/helper/storage/cookie-storage.helper';
 
 export default class MyCookiePermission extends CookiePermissionPlugin {
     init() {
