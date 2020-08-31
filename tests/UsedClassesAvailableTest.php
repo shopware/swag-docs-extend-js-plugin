@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Swag\ExtendJsPlugin\tests;
+namespace Swag\ExtendJsPlugin\Tests;
 
 use Shopware\Core\Framework\Test\TestCaseBase\IntegrationTestBehaviour;
 use PHPUnit\Framework\TestCase;
